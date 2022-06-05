@@ -59,7 +59,7 @@ export default function AuthExample() {
   );
 }
 
-//========== fakeAuth Or Firebase
+//========== fakeAuth Or Firebase ==========
 
 const fakeAuth = {
   isAuthenticated: false,
